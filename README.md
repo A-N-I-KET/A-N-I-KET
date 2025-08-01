@@ -1,21 +1,68 @@
-# 💫 About Me:
-Hi there! I'm an undergraduate student and researcher from India with a passion for exploring and experimenting with new technologies. 🚀<br><br>I am a full-stack web developer with expertise in building dynamic, scalable, and user-friendly applications. Beyond coding, I thrive in leadership roles, where I enjoy driving collaboration and innovation within teams.<br><br>Currently, I'm diving deep into modern tech stacks and honing my skills in software development while contributing to open-source projects and research initiatives. Always curious, always learning! 🌟<br><br>Let’s connect and build something amazing together!
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![Rust](https://img.shields.io/badge/rust-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Unreal Engine](https://img.shields.io/badge/unrealengine-%23313131.svg?style=for-the-badge&logo=unrealengine&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![mlflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=for-the-badge&logo=numpy&logoColor=blue) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=A-N-I-KET&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=A-N-I-KET&theme=tokyonight&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-I-KET&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=A-N-I-KET&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=A-N-I-KET&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h1 align="center">🌟 Hey, I’m Aniket — aka A-N-I-KET 👨‍💻</h1>
+<p align="center">🚀 Full-stack Web Wizard | 🧠 Tech Explorer | 🧪 Research Enthusiast</p>
+<p align="center">🌍 From India • 📚 Always Learning • 🤝 Open to Collabs</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=A-N-I-KET&icon=0&color=0)](https://visitcount.itsvg.in)
+
+## 🧠 Who Am I?
+🎓 An inquisitive undergraduate on a never-ending quest to build, break, and innovate.<br>  
+💻 I craft full-stack applications that *don’t crash* (usually 😉).  
+👑 I thrive in leadership roles and bring vibes to every team I join.  
+🧪 Currently diving into cutting-edge tech, open-source adventures, and collaborative research.  
+📬 Let’s cook up something cool: collabs, open-source, memes? I'm in!
+
+---
+
+## 🧰 Tech Toolbox
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,cpp,python,java,go,cs,flask,flutter,dart,vercel,firebase,gcp,aws,mongodb,git,kubernetes,tensorflow,pytorch,opencv,rust,tailwind,threejs,sass,figma,canva,blender,ps,ae,pr" />
+</p>
+
+> 💥 Yes, I dabble in a lot. Call it curiosity or career crisis. Either way, we’re shipping code 🚚
+
+---
+
+## 📊 My GitHub Game
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=A-N-I-KET&theme=tokyonight&show_icons=true&hide_border=false" alt="Aniket's GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=A-N-I-KET&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=A-N-I-KET&layout=compact&theme=tokyonight&hide_border=false" alt="Top Languages" />
+</p>
+
+---
+
+## 🏆 Achievements Unlocked
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=A-N-I-KET&theme=radical&no-bg=false&no-frame=false&margin-w=4" />
+</p>
+
+---
+
+## 🧩 Cool Extras
+
+### ✍️ Dev Quote of the Day
+> <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
+
+### 🧠 Top Contributions
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=A-N-I-KET&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+</p>
+
+---
+
+## 🌐 Let’s Connect & Count the Visits
+<p align="center">
+  <a href="https://visitcount.itsvg.in">
+    <img src="https://visitcount.itsvg.in/api?id=A-N-I-KET&icon=0&color=0" alt="Profile Visit Counter" />
+  </a>
+</p>
+
+---
+
+> 🤓 *“Code is poetry, bugs are plot twists.”*
 
