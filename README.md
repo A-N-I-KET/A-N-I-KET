@@ -1,11 +1,12 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coder GIF" width="450" />
+</p>
 <h1 align="center">Hey there 👋, I'm <span style="color:#00BFFF;">Aniket Chakraborty</span></h1>
 <h3 align="center">🚀 Full-Stack Web Developer | 🧠 AI Explorer | 🎓 Research Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=450&lines=Code+%F0%9F%92%BB+%2B+Creativity+%F0%9F%8E%A8+%3D+Magic+%E2%9C%A8;Let%E2%80%99s+Build+the+Future+Together+%F0%9F%9A%80" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=500&lines=Code+%F0%9F%92%BB+%2B+Creativity+%F0%9F%8E%A8+%3D+Magic+%E2%9C%A8;Let%E2%80%99s+Build+the+Future+Together+%F0%9F%9A%80" alt="Typing SVG" />
 </p>
-
----
 
 ## 🌟 About Me
 
@@ -84,3 +85,17 @@
 ---
 
 <p align="center"><i>Thanks for stopping by! Let’s make tech awesome together. 🚀</i></p>
+
+## 🐤 My Custom Flappy Bird Game
+
+Need a quick break from coding? Try flapping your way to glory!
+
+<p align="center">
+  <img src="https://media.giphy.com/media/3oKIP9ZnSKZq1Up5sY/giphy.gif" alt="Flappy Bird" width="250px" />
+</p>
+
+<p align="center">
+  <a href="https://your-vercel-link.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/▶️%20Play%20Now-Flappy%20Bird-blue?style=for-the-badge" />
+  </a>
+</p>
